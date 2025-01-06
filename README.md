@@ -43,6 +43,3 @@ If you would like to contribute to the development of Python-Keylogger, please f
 4. Commit your changes (`git commit -m 'Add some YourFeature'`).
 5. Push to the branch (`git push origin feature/YourFeature`).
 6. Open a pull request.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
