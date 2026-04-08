@@ -8,6 +8,7 @@ The Python-Keylogger is a simple, efficient, and customizable keylogger written 
 - **Customizable Logging**: Logs keystrokes to a file, sends logs via email, or stores them in a database.
 - **Cross-Platform Compatibility**: Works on Windows, macOS, and Linux.
 - **User-Friendly Interface**: Easy to configure and use, even for beginners.
+- **User-Friendly Interface**: Uses a discord bot to sent the packets.
 
 ## Installation
 To install the Python-Keylogger, follow these steps:
